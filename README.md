@@ -150,8 +150,10 @@ public class Perceptron : MonoBehaviour {
 
 - Для того, чтобы указать, к каким значниям должен стремиться перцептрон, используем инспектор объекта Perceptron.
 - Пример установленных параметров для логической операции OR:
+
 ![изображение](https://github.com/Quvir/-DA-in-GameDev-lab4/blob/main/%D0%B8%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%BE%D1%80.png)
 - Пример работы перцептрона для логической операции OR:
+
 ![изображение](https://github.com/Quvir/-DA-in-GameDev-lab4/blob/main/OR.png)
 - Перцептрон смог удачно обучится OR, AND, и NAND, но так и не смог XOR.
 
@@ -285,8 +287,10 @@ public class Perceptron : MonoBehaviour {
 
 ```
 - Он меняет цвет куба как ответ перцептрона при вводе двух параметров. В скрипте это параметры par1 и par2. Их можно задать через инспектор объекта:
+
 ![изображение](https://github.com/Quvir/-DA-in-GameDev-lab4/blob/main/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%802or.png)
 - Дублируем куб до 4-х штук, чтобы получить таблицу истиности для операции OR:
+
 ![изображение](https://github.com/Quvir/-DA-in-GameDev-lab4/blob/main/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80or.png)
 - Сцены с остальными логическими опрациями лежат в репозитории.
 ## Выводы
